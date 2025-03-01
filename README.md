@@ -26,6 +26,8 @@ Conducted thorough testing to ensure accuracy and reliability of the program.
 
 Challenges and Solutions:
 
-Challenge: Balancing the difficulty of the generated math problems. Solution: Implemented different difficulty levels and ensured a mix of simple and complex problems.
+Challenge: Balancing the difficulty of the generated math problems. 
+Solution: Implemented different difficulty levels and ensured a mix of simple and complex problems.
 
-Challenge: Accurately timing the completion of the quiz. Solution: Utilized Python's time module to measure and record the time taken to complete the quiz.
+Challenge: Accurately timing the completion of the quiz. 
+Solution: Utilized Python's time module to measure and record the time taken to complete the quiz.
